@@ -1,0 +1,1 @@
+# docker_minimal_image_demo
